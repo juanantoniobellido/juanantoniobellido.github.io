@@ -84,7 +84,7 @@ html, body {
 
 body {
     background: #0a0809;
-    font-family: "librebaskerville-regular", serif;
+    font-family: "montserrat-light", sans-serif;
     font-size: 1.6rem;
     line-height: 1.875;
     color: #5f5f5f;
@@ -217,7 +217,7 @@ em, i, strong, b {
 }
 
 em, i {
-    font-family: "librebaskerville-italic", serif;
+    font-family: "montserrat-italic", sans-serif;
 }
 
 strong, b {
